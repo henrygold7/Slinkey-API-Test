@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "test": "jest --forceExit"
+    },
+    "devDependencies": {},
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "jest": "^23.1.0",
+        "supertest": "^3.1.0",
+        "then-request": "^6.0.0"
+    }
+}
